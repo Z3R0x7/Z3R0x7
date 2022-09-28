@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Z3R0x7&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![mbmbnmbnm](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Z3R0x7&icon=2&color=1)](https://visitcount.itsvg.in)
