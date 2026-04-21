@@ -18,8 +18,8 @@
 
 ---
 
-### 👩‍💻  About the Operative
-I operate at the intersection of low-level software and high-stakes hardware. My goal is the mastery of cyber-physical systems, moving toward a career in **National Security (NTRO/DRDO)** and offensive research.
+### 👩‍💻 About the Operative
+I operate at the intersection of low-level software and high-stakes hardware. My goal is the mastery of cyber-physical systems, moving toward a career in **National Security (NTRO/DRDO)**.
 
 - 🔭 **Current Project:** Hardening [Aegis-Gateway](https://github.com/Z3R0x7/Aegis-Gateway) for EV Security.
 - 📚 **Learning Path:** HTB Certified Penetration Testing Specialist (CPTS) & Malware Development.
@@ -31,11 +31,7 @@ I operate at the intersection of low-level software and high-stakes hardware. My
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash" height="50" alt="languages" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="50" alt="hardware" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux,kali,obsidian,git" height="50" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,raspberrypi,arduino,linux,kali,obsidian,git" height="50" alt="tech stack" />
 </div>
 
 ---
@@ -49,22 +45,17 @@ I operate at the intersection of low-level software and high-stakes hardware. My
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Z3R0x7&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Z3R0x7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ---
 
 ### 🕵️ System Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph.svg">
-</picture>
-
-<br />
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Z3R0x7/Z3R0x7/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <br />
