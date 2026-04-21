@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Z3R0x7 | The Polymath Protocol</h1>
+<h1 align="center">🛡️ Z3R0x7 | The Polymath </h1>
 
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Cybersecurity Animation" />
