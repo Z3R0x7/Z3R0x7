@@ -19,7 +19,7 @@
 ---
 
 ### 👩‍💻 About the Operative
-I operate at the intersection of low-level software and high-stakes hardware. My goal is the mastery of cyber-physical systems, moving toward a career in **National Security (NTRO/DRDO)**.
+ 
 
 - 🔭 **Current Project:** Hardening [Aegis-Gateway](https://github.com/Z3R0x7/Aegis-Gateway) for EV Security.
 - 📚 **Learning Path:** HTB Certified Penetration Testing Specialist (CPTS) & Malware Development.
